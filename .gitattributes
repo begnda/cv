@@ -1,1 +1,1 @@
-*.zip diff=zipconv
+*.zip diff=zipdiff
